@@ -1,0 +1,6 @@
+{
+  "name": "DreamNest Mattresses & Manufacturing ERP",
+  "description": "Premium mattress retail storefront and integrated manufacturing, supplier procurement, and inventory operations portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
